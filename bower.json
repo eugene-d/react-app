@@ -1,0 +1,8 @@
+{
+  "name": "react-test",
+  "version": "0.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "~0.13.3"
+  }
+}
